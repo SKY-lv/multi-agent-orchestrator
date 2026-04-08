@@ -1,2 +1,24 @@
-# multi-agent-orchestrator
-多Agent编排系统 - 任务分解/协作/消息路由
+# Multi Agent Orchestrator
+
+> OpenClaw Agent Skill
+
+Multi-Agent Orchestrator
+
+## Installation
+
+```bash
+# Install via ClawHub
+clawhub install SKY-lv/multi-agent-orchestrator
+```
+
+## Usage
+
+Load this skill in your OpenClaw agent to enable multi agent orchestrator capabilities.
+
+## Features
+
+See [SKILL.md](./SKILL.md) for full documentation and usage examples.
+
+## License
+
+MIT
